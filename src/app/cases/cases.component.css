@@ -1,0 +1,15 @@
+/* Structure */
+.example-container {
+    position: relative;
+    padding: 0.5rem;
+  }
+
+#c1 {
+    width: 33rem;
+}
+#c2 {
+    width: 33rem;
+}
+#c3 {
+    width: auto;
+}
